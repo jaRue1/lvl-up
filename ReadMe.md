@@ -70,21 +70,21 @@ This is not beginner friendly this resource is tailored to help you build on the
 
 - ### Error handling
 
-  - [Try-catch statement](): The try-catch statement is a basic construct for handling errors in JavaScript. It allows developers to attempt a block of code and catch any errors that may occur.
+  - [Try-catch statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch): The try-catch statement is a basic construct for handling errors in JavaScript. It allows developers to attempt a block of code and catch any errors that may occur.
 
-  - [Error object](): The Error object is a built-in object in JavaScript that provides information about runtime errors. It has several properties, such as name and message, which can be used to handle errors more effectively.
+  - [Error object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error/Error): The Error object is a built-in object in JavaScript that provides information about runtime errors. It has several properties, such as name and message, which can be used to handle errors more effectively.
 
-  - [Throwing errors](): Developers can throw errors in their code using the throw keyword.
+  - [Throwing errors](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw): Developers can throw errors in their code using the throw keyword.
 
-  - [Error handling patterns](): null check pattern, the try-finally pattern, and the defensive coding pattern.
+  - [Error handling patterns](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling): null check pattern, the try-finally pattern, and the defensive coding pattern.
 
-  - [Promise error handling](): Promises are a powerful way to handle asynchronous code in JavaScript, but they also require careful error handling. Developers can use the catch method on promises to handle errors that occur during execution.
+  - [Promise error handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch): Promises are a powerful way to handle asynchronous code in JavaScript, but they also require careful error handling. Developers can use the catch method on promises to handle errors that occur during execution.
 
-  - [Error boundary component](): In React, an error boundary component can be used to catch and handle errors that occur within a component tree. This can help prevent errors from propagating throughout an entire application.
+  - [Error boundary component](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary): In React, an error boundary component can be used to catch and handle errors that occur within a component tree. This can help prevent errors from propagating throughout an entire application.
 
   - [Async/await error handling](): Async/await is a newer syntax for handling asynchronous code in JavaScript. Developers can use the try-catch statement to handle errors that occur within async functions.
 
-  - [Error handling middleware](): In Node.js, developers can use error handling middleware to handle errors that occur during the processing of HTTP
+  - [Error handling middleware](https://expressjs.com/en/guide/error-handling.html): In Node.js, developers can use error handling middleware to handle errors that occur during the processing of HTTP
 
   requests. This can help provide more detailed error messages to clients.
 
