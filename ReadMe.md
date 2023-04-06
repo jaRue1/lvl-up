@@ -57,13 +57,12 @@ This is not beginner friendly this resource is tailored to help you build on the
 
 - ### React
 
-  - [React Hooks]('')
-  - [Context API]('')
+  - [React Hooks](https://react.dev/learn#using-hooks)
+  - [Context API](https://react.dev/reference/react/useContext)
   - [Higher-order components (HOCs)]('')
-  - [Render props]('')
-  - [Server-side rendering]('')
-  - [React performance optimization]('')
-  - [Redux ]('')
+  - [Render props](https://react.dev/reference/react/cloneElement#passing-data-with-a-render-prop)
+  - [Server-side rendering](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)
+  - [React performance optimization](https://react.dev/learn/render-and-commit#optimizing-performance)
 
 - ### Frontend Project
 
@@ -71,27 +70,25 @@ This is not beginner friendly this resource is tailored to help you build on the
 
 - ### Error handling
 
-  - Try-catch statement: The try-catch statement is a basic construct for handling errors in JavaScript. It allows developers to attempt a block of code and catch any errors that may occur.
+  - [Try-catch statement](): The try-catch statement is a basic construct for handling errors in JavaScript. It allows developers to attempt a block of code and catch any errors that may occur.
 
-  - Error object: The Error object is a built-in object in JavaScript that provides information about runtime errors. It has several properties, such as name and message, which can be used to handle errors more effectively.
+  - [Error object](): The Error object is a built-in object in JavaScript that provides information about runtime errors. It has several properties, such as name and message, which can be used to handle errors more effectively.
 
-  - Throwing errors: Developers can throw errors in their code using the throw keyword.
+  - [Throwing errors](): Developers can throw errors in their code using the throw keyword.
 
-  - Error handling patterns: null check pattern, the try-finally pattern, and the defensive coding pattern.
+  - [Error handling patterns](): null check pattern, the try-finally pattern, and the defensive coding pattern.
 
-  - Promise error handling: Promises are a powerful way to handle asynchronous code in JavaScript, but they also require careful error handling. Developers can use the catch method on promises to handle errors that occur during execution.
+  - [Promise error handling](): Promises are a powerful way to handle asynchronous code in JavaScript, but they also require careful error handling. Developers can use the catch method on promises to handle errors that occur during execution.
 
-  - Error boundary component: In React, an error boundary component can be used to catch and handle errors that occur within a component tree. This can help prevent errors from propagating throughout an entire application.
+  - [Error boundary component](): In React, an error boundary component can be used to catch and handle errors that occur within a component tree. This can help prevent errors from propagating throughout an entire application.
 
-  - Async/await error handling: Async/await is a newer syntax for handling asynchronous code in JavaScript. Developers can use the try-catch statement to handle errors that occur within async functions.
+  - [Async/await error handling](): Async/await is a newer syntax for handling asynchronous code in JavaScript. Developers can use the try-catch statement to handle errors that occur within async functions.
 
-  - Error handling middleware: In Node.js, developers can use error handling middleware to handle errors that occur during the processing of HTTP
+  - [Error handling middleware](): In Node.js, developers can use error handling middleware to handle errors that occur during the processing of HTTP
 
   requests. This can help provide more detailed error messages to clients.
 
-  - Error logging: Error logging is an important aspect of error handling in JavaScript. Developers can use tools like Sentry or LogRocket to log errors and track down their root causes.
-
-  - Error logging: Error logging is an important aspect of error handling in JavaScript. Developers can use tools like Sentry or LogRocket to log errors and track down their root causes.
+  - [Error logging](): Error logging is an important aspect of error handling in JavaScript. Developers can use tools like Sentry or LogRocket to log errors and track down their root causes.
 
 - ### Error Handing Project
 
@@ -99,11 +96,11 @@ This is not beginner friendly this resource is tailored to help you build on the
 
 - ### Testing
 
-  - [Jest](): Jest is a popular JavaScript testing framework created by Facebook. It is used to test all kinds of JavaScript code, including React components, Node.js applications, and more. Jest provides a simple, intuitive API for writing tests and includes built-in support for features like mocking and snapshot testing.
+  - [Jest](https://jestjs.io/): Jest is a popular JavaScript testing framework created by Facebook. It is used to test all kinds of JavaScript code, including React components, Node.js applications, and more. Jest provides a simple, intuitive API for writing tests and includes built-in support for features like mocking and snapshot testing.
 
-  - [Mocha](): Mocha is another popular testing framework for JavaScript. It supports both browser and Node.js environments and provides a flexible, extensible API for writing tests. Mocha can be used in combination with other tools like Chai or Sinon for more advanced testing scenarios.
+  - [Mocha](https://mochajs.org/): Mocha is another popular testing framework for JavaScript. It supports both browser and Node.js environments and provides a flexible, extensible API for writing tests. Mocha can be used in combination with other tools like Chai or Sinon for more advanced testing scenarios.
 
-  - [Cypress](): Cypress is a powerful end-to-end testing framework for JavaScript applications. It allows developers to write tests that simulate real user interactions with an application, such as clicking buttons, filling out forms, and navigating between pages. Cypress provides a simple, easy-to-use API and includes built-in support for features like time travel debugging.
+  - [Cypress](https://www.cypress.io/): Cypress is a powerful end-to-end testing framework for JavaScript applications. It allows developers to write tests that simulate real user interactions with an application, such as clicking buttons, filling out forms, and navigating between pages. Cypress provides a simple, easy-to-use API and includes built-in support for features like time travel debugging.
 
   - [Test Driven Development]() (TDD) is a software development approach that emphasizes writing automated tests before writing production code.
     - TDD follows a cycle of three basic steps:
