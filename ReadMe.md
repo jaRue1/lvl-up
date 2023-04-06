@@ -1,9 +1,12 @@
 # Level Up Resources
 
-This read me will point you to resources that will help you level up as a Software Engineer.
+This readMe will point you to resources that will help you level up as a Software Engineer.
 
-Each Section is broken up by the part of the stack it pertains to.
-I strongly recommend reviewing the core concepts for each section before doing the level up projects. This is not beginner friendly this resource is tailored to help you build on skills you already have and help you move to the next level
+Each section is broken up by the part of the stack it pertains to.
+
+I strongly recommend reviewing the core concepts for each section before doing the level up projects.
+
+This is not beginner friendly this resource is tailored to help you build on the skills you already have and help you move to the next level
 
 ## Perquisites
 
