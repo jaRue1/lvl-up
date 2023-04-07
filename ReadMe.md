@@ -114,40 +114,41 @@ This is not beginner friendly this resource is tailored to help you build on the
 ## Backend
 
 - ### Concepts / Topics
-  - [File system operations]()
-  - [HTTP/HTTPS]()
-  - [Streams]()
-  - [Authentication and Authorization]()
-  - [Real-time communication]()
+  - [File system operations](https://www.geeksforgeeks.org/node-js-file-system/)
+  - [HTTP vs HTTPS](https://www.freecodecamp.org/news/http-vs-https/)
+  - [Streams](https://nodesource.com/blog/understanding-streams-in-nodejs/)
+  - [Authentication and Authorization](https://www.topcoder.com/thrive/articles/authentication-and-authorization-in-express-js-api-using-jwt)
+  - [Real-time communication](https://blog.logrocket.com/websocket-tutorial-real-time-node-react/)
 - ### Architecture
-  - [Monolithic architecture]()
-  - [Microservices architecture]()
-  - [Serverless architecture]()
+  - [Monolithic architecture](https://builtin.com/software-engineering-perspectives/monolithic-application)
+  - [Microservices architecture](https://www.spiceworks.com/tech/devops/articles/what-are-microservices/)
+  - [Serverless architecture](https://www.spiceworks.com/tech/devops/articles/what-is-serverless/)
 - ### Best Practices
 
 - ### Backend Project
-  - [Backend Development](https://github.com/jaRue1)
+  - TBD
+  <!-- - [Backend Development](https://github.com/jaRue1) -->
 
 ## Cloud
 
 - ### Concepts
-  - ['Scaling']()
-  - ['Storage']()
-  - ['Automation']()
-  - ['Governance']()
-  - ['Networking']()
-  - ['Migration']()
-  - ['Monitoring']()
-  - ['Cost Management']()
+  - [Scaling](<https://www.vmware.com/topics/glossary/content/cloud-scalability.html#:~:text=There%20are%20two%20basic%20types,or%20processing%20power%20(CPU).>)
+  - [Storage](https://aws.amazon.com/what-is/cloud-storage/#:~:text=Cloud%20storage%20is%20a%20cloud,a%20dedicated%20private%20network%20connection.)
+  - [Automation](https://www.appdynamics.com/topics/what-is-cloud-automation#~2-key-to-devops-success)
+  - [Governance](https://www.imperva.com/learn/data-security/cloud-governance/)
+  - [Networking](https://digitalcloud.training/cloud-computing-basics-network/)
+  - [Migration](https://cloudacademy.com/blog/cloud-migration-benefits-risks/)
+  - [Monitoring](https://www.netapp.com/cloud-services/what-is-cloud-monitoring/)
+  - [Cost Management](https://www.vmware.com/topics/glossary/content/cloud-cost-management.html)
 - ### AWS
-  - [S3]()
-  - [EC2]()
-  - [RDS]()
-  - [Lambda]()
-  - [AWS CLI]()
-  - [Route 53]()
-  - [Dynamo DB]()
-  - [Api Gateway]()
+  - [S3](https://aws.amazon.com/s3/)
+  - [EC2](https://aws.amazon.com/ec2/)
+  - [RDS](https://aws.amazon.com/rds/)
+  - [Lambda](https://aws.amazon.com/lambda/)
+  - [AWS CLI](https://aws.amazon.com/cli/)
+  - [Route 53](https://aws.amazon.com/route53/)
+  - [Dynamo DB](https://aws.amazon.com/dynamodb/)
+  - [Api Gateway](https://aws.amazon.com/api-gateway/)
   - ### AWS Deep Dive
     - [AWS 101](https://github.com/jaRue1/aws-101)
 - ### Firebase
@@ -155,7 +156,8 @@ This is not beginner friendly this resource is tailored to help you build on the
   - TBD
 
 - ### Cloud Computing Project
-  - [ Cloud Computing ]('https://github.com/jaRue1')
+  - TBD
+  <!-- - [ Cloud Computing ]('https://github.com/jaRue1') -->
 
 ## JavaScript
 
