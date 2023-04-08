@@ -65,57 +65,44 @@ This is not beginner friendly this resource is tailored to help you build on the
   - [Server-side rendering](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)
   - [React performance optimization](https://react.dev/learn/render-and-commit#optimizing-performance)
 
-- ### Frontend Project
+## Error handling
 
-  - TBD
-  <!-- - [Frontend Development](https://github.com/jaRue1) -->
+- [Try-catch statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch): The try-catch statement is a basic construct for handling errors in JavaScript. It allows developers to attempt a block of code and catch any errors that may occur.
 
-- ### Error handling
+- [Error object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error/Error): The Error object is a built-in object in JavaScript that provides information about runtime errors. It has several properties, such as name and message, which can be used to handle errors more effectively.
 
-  - [Try-catch statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch): The try-catch statement is a basic construct for handling errors in JavaScript. It allows developers to attempt a block of code and catch any errors that may occur.
+- [Throwing errors](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw): Developers can throw errors in their code using the throw keyword.
 
-  - [Error object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error/Error): The Error object is a built-in object in JavaScript that provides information about runtime errors. It has several properties, such as name and message, which can be used to handle errors more effectively.
+- [Error handling patterns](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling): null check pattern, the try-finally pattern, and the defensive coding pattern.
 
-  - [Throwing errors](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw): Developers can throw errors in their code using the throw keyword.
+- [Promise error handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch): Promises are a powerful way to handle asynchronous code in JavaScript, but they also require careful error handling. Developers can use the catch method on promises to handle errors that occur during execution.
 
-  - [Error handling patterns](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling): null check pattern, the try-finally pattern, and the defensive coding pattern.
+- [Error boundary component](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary): In React, an error boundary component can be used to catch and handle errors that occur within a component tree. This can help prevent errors from propagating throughout an entire application.
 
-  - [Promise error handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch): Promises are a powerful way to handle asynchronous code in JavaScript, but they also require careful error handling. Developers can use the catch method on promises to handle errors that occur during execution.
+- [Async/await error handling](): Async/await is a newer syntax for handling asynchronous code in JavaScript. Developers can use the try-catch statement to handle errors that occur within async functions.
 
-  - [Error boundary component](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary): In React, an error boundary component can be used to catch and handle errors that occur within a component tree. This can help prevent errors from propagating throughout an entire application.
+- [Error handling middleware](https://expressjs.com/en/guide/error-handling.html): In Node.js, developers can use error handling middleware to handle errors that occur during the processing of HTTP
 
-  - [Async/await error handling](): Async/await is a newer syntax for handling asynchronous code in JavaScript. Developers can use the try-catch statement to handle errors that occur within async functions.
+requests. This can help provide more detailed error messages to clients.
 
-  - [Error handling middleware](https://expressjs.com/en/guide/error-handling.html): In Node.js, developers can use error handling middleware to handle errors that occur during the processing of HTTP
+- [Error logging](): Error logging is an important aspect of error handling in JavaScript. Developers can use tools like Sentry or LogRocket to log errors and track down their root causes.
 
-  requests. This can help provide more detailed error messages to clients.
+## Testing
 
-  - [Error logging](): Error logging is an important aspect of error handling in JavaScript. Developers can use tools like Sentry or LogRocket to log errors and track down their root causes.
+- [Jest](https://jestjs.io/): Jest is a popular JavaScript testing framework created by Facebook. It is used to test all kinds of JavaScript code, including React components, Node.js applications, and more. Jest provides a simple, intuitive API for writing tests and includes built-in support for features like mocking and snapshot testing.
 
-- ### Error Handing Project
+- [Mocha](https://mochajs.org/): Mocha is another popular testing framework for JavaScript. It supports both browser and Node.js environments and provides a flexible, extensible API for writing tests. Mocha can be used in combination with other tools like Chai or Sinon for more advanced testing scenarios.
 
-  - [Error Handling](https://github.com/jaRue1)
+- [Cypress](https://www.cypress.io/): Cypress is a powerful end-to-end testing framework for JavaScript applications. It allows developers to write tests that simulate real user interactions with an application, such as clicking buttons, filling out forms, and navigating between pages. Cypress provides a simple, easy-to-use API and includes built-in support for features like time travel debugging.
 
-- ### Testing
-
-  - [Jest](https://jestjs.io/): Jest is a popular JavaScript testing framework created by Facebook. It is used to test all kinds of JavaScript code, including React components, Node.js applications, and more. Jest provides a simple, intuitive API for writing tests and includes built-in support for features like mocking and snapshot testing.
-
-  - [Mocha](https://mochajs.org/): Mocha is another popular testing framework for JavaScript. It supports both browser and Node.js environments and provides a flexible, extensible API for writing tests. Mocha can be used in combination with other tools like Chai or Sinon for more advanced testing scenarios.
-
-  - [Cypress](https://www.cypress.io/): Cypress is a powerful end-to-end testing framework for JavaScript applications. It allows developers to write tests that simulate real user interactions with an application, such as clicking buttons, filling out forms, and navigating between pages. Cypress provides a simple, easy-to-use API and includes built-in support for features like time travel debugging.
-
-  - [Test Driven Development]() (TDD) is a software development approach that emphasizes writing automated tests before writing production code.
-    - TDD follows a cycle of three basic steps:
-      1. Write a failing test
-      2. Write the minimum amount of code necessary to make the test pass
-      3. Refactor
-
-- ### Testing Project
-  - [Test Driven Development](https://github.com/jaRue1/tdd)
+- [Test Driven Development]() (TDD) is a software development approach that emphasizes writing automated tests before writing production code.
+  - TDD follows a cycle of three basic steps:
+    1. Write a failing test
+    2. Write the minimum amount of code necessary to make the test pass
+    3. Refactor
 
 ## Backend
 
-- TBD
 - ### Concepts / Topics
   - [File system operations](https://www.geeksforgeeks.org/node-js-file-system/)
   - [HTTP vs HTTPS](https://www.freecodecamp.org/news/http-vs-https/)
@@ -127,10 +114,6 @@ This is not beginner friendly this resource is tailored to help you build on the
   - [Microservices architecture](https://www.spiceworks.com/tech/devops/articles/what-are-microservices/)
   - [Serverless architecture](https://www.spiceworks.com/tech/devops/articles/what-is-serverless/)
 - ### Best Practices
-
-- ### Backend Project
-  - TBD
-  <!-- - [Backend Development](https://github.com/jaRue1) -->
 
 ## Cloud
 
@@ -154,13 +137,6 @@ This is not beginner friendly this resource is tailored to help you build on the
   - [Api Gateway](https://aws.amazon.com/api-gateway/)
   - ### AWS Deep Dive
     - [AWS 101](https://github.com/jaRue1/aws-101)
-- ### Firebase
-
-  - TBD
-
-- ### Cloud Computing Project
-  - TBD
-  <!-- - [ Cloud Computing ]('https://github.com/jaRue1') -->
 
 ## JavaScript
 
@@ -178,6 +154,34 @@ This is not beginner friendly this resource is tailored to help you build on the
 
   - [Object Oriented](https://www.honeybadger.io/blog/javascript-oop/)
 
-- ### Advanced JavaScript Project
+#
 
-  - [ Advanced JavaScript ](https://github.com/jaRue1/Bread-Bank)
+## Level Up Projects
+
+### Frontend Project
+
+- TBD
+<!-- - [Frontend Development](https://github.com/jaRue1) -->
+
+### Backend Project
+
+- TBD
+<!-- - [Backend Development](https://github.com/jaRue1) -->
+
+### Cloud Computing Project
+
+- TBD
+<!-- - [ Cloud Computing ]('https://github.com/jaRue1') -->
+
+### Error Handing Project
+
+- TBD
+<!-- - [Error Handling](https://github.com/jaRue1) -->
+
+### Testing Project
+
+- [Test Driven Development](https://github.com/jaRue1/tdd)
+
+### Advanced JavaScript Project
+
+- [ Advanced JavaScript ](https://github.com/jaRue1/Bread-Bank)
