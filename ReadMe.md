@@ -12,44 +12,45 @@ This is not beginner friendly this resource is tailored to help you build on the
 
 ### JavaScript
 
-1. [Variables]()
-2. [Functions]()
-3. [Arrays]()
-4. [Objects]()
-5. [Conditional statements]()
-6. [Loops]()
-7. [Operators]()
-8. [Event listeners]()
-9. [DOM manipulation]()
+1. [Loops](https://javascript.info/while-for)
+2. [Arrays](https://javascript.info/array)
+3. [Objects](https://javascript.info/object)
+4. [Variables](https://javascript.info/variables)
+5. [Functions](https://javascript.info/function-basics)
+6. [Arrays Methods](https://javascript.info/array-methods)
+7. [Conditional statements](https://javascript.info/ifelse)
+8. [Operators](https://javascript.info/logical-operators)
+9. [Event](https://javascript.info/dispatch-events)
+10. [DOM manipulation](https://javascript.info/dom-nodes)
 
 ### Node
 
-1. [Modules]()
-2. [NPM]()
+1. [Modules](https://www.atatus.com/blog/understanding-node-js-module-exports/)
+2. [NPM](https://docs.npmjs.com/about-npm)
 
 ### React
 
-1. [Components]()
-2. [JSX]()
-3. [State]()
-4. [Props]()
-5. [Virtual DOM]()
+1. [Components](https://react.dev/learn/your-first-component)
+2. [JSX](https://react.dev/learn/writing-markup-with-jsx)
+3. [State](https://react.dev/learn/updating-objects-in-state)
+4. [Props](https://react.dev/learn/passing-props-to-a-component)
+5. [DOM Manipulation](https://react.dev/learn/manipulating-the-dom-with-refs#best-practices-for-dom-manipulation-with-refs)
 
 ### Express
 
-1. [Routing]()
-2. [Middleware]()
-3. [Templates]()
-4. [Error handling]()
-5. [Static files]()
+1. [Routing](https://expressjs.com/en/guide/routing.html)
+2. [Middleware](https://expressjs.com/en/guide/using-middleware.html#using-middleware)
+3. [Templates](https://expressjs.com/en/advanced/developing-template-engines.html#developing-template-engines-for-express)
+4. [Error handling](https://expressjs.com/en/guide/error-handling.html#error-handling)
+5. [Static files](https://expressjs.com/en/starter/static-files.html#serving-static-files-in-express)
 
 ### Cloud
 
-1. [Infrastructure as a Service (IaaS)]()
-2. [Platform as a Service (PaaS)]()
-3. [Software as a Service (SaaS)]()
-4. [Public cloud]()
-5. [Private cloud]()
+1. [Infrastructure as a Service (IaaS)](https://aws.amazon.com/types-of-cloud-computing/)
+2. [Platform as a Service (PaaS)](https://aws.amazon.com/types-of-cloud-computing/)
+3. [Software as a Service (SaaS)](https://aws.amazon.com/types-of-cloud-computing/)
+4. [Public cloud](https://docs.aws.amazon.com/whitepapers/latest/public-sector-cloud-transformation/selecting-the-right-cloud-for-workloads-differences-between-public-private-and-hybrid.html)
+5. [Private cloud](https://docs.aws.amazon.com/whitepapers/latest/public-sector-cloud-transformation/selecting-the-right-cloud-for-workloads-differences-between-public-private-and-hybrid.html)
 
 #
 
@@ -66,7 +67,8 @@ This is not beginner friendly this resource is tailored to help you build on the
 
 - ### Frontend Project
 
-  - [Frontend Development](https://github.com/jaRue1)
+  - TBD
+  <!-- - [Frontend Development](https://github.com/jaRue1) -->
 
 - ### Error handling
 
@@ -113,6 +115,7 @@ This is not beginner friendly this resource is tailored to help you build on the
 
 ## Backend
 
+- TBD
 - ### Concepts / Topics
   - [File system operations](https://www.geeksforgeeks.org/node-js-file-system/)
   - [HTTP vs HTTPS](https://www.freecodecamp.org/news/http-vs-https/)
@@ -163,20 +166,18 @@ This is not beginner friendly this resource is tailored to help you build on the
 
 - ### Advanced Concepts
 
-  - [ES6 features]()
+  - [ES6 features](https://www.boardinfinity.com/blog/top-10-features-of-es6/)
 
-  - [SOLID Principles]()
+  - [SOLID Principles](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
-  - [DOM manipulation]()
+  - [Functional programming](https://www.codingdojo.com/blog/what-is-functional-programming)
 
-  - [Functional programming]()
+  - [Asynchronous programming](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
 
-  - [Asynchronous programming]()
+  - [Event-driven architecture](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
 
-  - [Event-driven architecture]()
-
-  - [Object Oriented Principles]()
+  - [Object Oriented](https://www.honeybadger.io/blog/javascript-oop/)
 
 - ### Advanced JavaScript Project
 
-  - [ Advanced JavaScript ](https://github.com/jaRue1)
+  - [ Advanced JavaScript ](https://github.com/jaRue1/Bread-Bank)
