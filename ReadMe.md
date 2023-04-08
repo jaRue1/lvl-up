@@ -60,7 +60,7 @@ This is not beginner friendly this resource is tailored to help you build on the
 
   - [React Hooks](https://react.dev/learn#using-hooks)
   - [Context API](https://react.dev/reference/react/useContext)
-  - [Higher-order components (HOCs)]('')
+  - [Higher-order components (HOCs)](https://legacy.reactjs.org/docs/higher-order-components.html)
   - [Render props](https://react.dev/reference/react/cloneElement#passing-data-with-a-render-prop)
   - [Server-side rendering](https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components)
   - [React performance optimization](https://react.dev/learn/render-and-commit#optimizing-performance)
